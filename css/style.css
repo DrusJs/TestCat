@@ -204,7 +204,7 @@ body {
     left: calc(50% - 85px);
     width: 180px;
     display: none;
-    z-index: 3;
+    z-index: -1;
 }
 .pack.active1 {
     animation: pack 3s ease-out forwards;
